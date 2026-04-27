@@ -1,3 +1,4 @@
+[![Binder](https://binder.eu-2.notebooks.open-science-cloud.ec.europa.eu/badge_logo.svg)](https://binder.eu-2.notebooks.open-science-cloud.ec.europa.eu/v2/gh/jojo-oak/satellite-imager/HEAD)
 
 # Satellite Imager
 
